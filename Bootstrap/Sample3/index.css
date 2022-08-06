@@ -1,0 +1,20 @@
+.ulitems {
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.navresp {
+    font-size: 25px;
+    margin-left: 40px;
+}
+
+.navresp:hover {
+    transition: .1s;
+    font-size: 26px;
+}
+
+
+a.nav-link:hover {
+    color: #DA9F5B;
+
+}
